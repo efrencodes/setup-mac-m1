@@ -35,7 +35,7 @@ $   brew install yarn
 $   brew install git
 ```
 
-Configurar git 
+Configurar git
 
 ```bash
 $   git config --global user.name <name> &&
