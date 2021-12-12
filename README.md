@@ -1,6 +1,7 @@
 
 ### Instalar Fuente Fire Code
-[Fire Code](https://github.com/tonsky/FiraCode)
+[Fira Code](https://github.com/tonsky/FiraCode)
+[JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 ### Instalar xcode
 
