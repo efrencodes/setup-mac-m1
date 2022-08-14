@@ -1,7 +1,7 @@
-
 ### Instalar Fuente Fire Code
-[Fira Code](https://github.com/tonsky/FiraCode)
-[JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+
+- [Fira Code](https://github.com/tonsky/FiraCode)
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 ### Instalar xcode
 
@@ -17,18 +17,15 @@ $   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/instal
 
 ### Instalar iTerm
 
-
 ```bash
 $   brew install --cask iterm2
 ```
 
 ### Instalar Yarn
 
-
 ```bash
 $   brew install yarn
 ```
-
 
 ### Instalar git
 
@@ -45,6 +42,7 @@ $   git config --global user.name <name> &&
 ```
 
 ### Instalar oh-my-zsh
+
 ```bash
 $   sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
@@ -52,15 +50,16 @@ $   sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/inst
 [Gist de oh-my-zsh](https://gist.github.com/efrencodes/1b16e86304a618e8169973c43544b7e9)
 
 ### Instalar spaceship
+
 ```bash
 $   git clone https://github.com/spaceship-prompt/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt" --depth=1
 ```
 
 Crear symlink
+
 ```bash
 $   ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"
 ```
-
 
 ### Aplicaciones
 
@@ -68,7 +67,11 @@ $   ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM
 - [Code Visual Studio](https://code.visualstudio.com/Download#)
 - [Notion](https://www.notion.so/desktop)
 - [Firefox](https://www.mozilla.org/es-MX/firefox/new/)
+- Google Chrome
+- Figma
 - [Rectangleapp](https://rectangleapp.com/)
+- [Raycast](https://www.raycast.com/)
+- Trello
 
 Extensiones para VSCode
 
