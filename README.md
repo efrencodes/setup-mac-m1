@@ -49,18 +49,6 @@ $   sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/inst
 
 [Gist de oh-my-zsh](https://gist.github.com/efrencodes/1b16e86304a618e8169973c43544b7e9)
 
-### Instalar spaceship
-
-```bash
-$   git clone https://github.com/spaceship-prompt/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt" --depth=1
-```
-
-Crear symlink
-
-```bash
-$   ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"
-```
-
 ### Aplicaciones
 
 - [Bitwarden](https://bitwarden.com/download/)
@@ -72,6 +60,7 @@ $   ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM
 - [Rectangleapp](https://rectangleapp.com/)
 - [Raycast](https://www.raycast.com/)
 - Trello
+- [Fig.io](https://fig.io)
 
 Extensiones para VSCode
 
