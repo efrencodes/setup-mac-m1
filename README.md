@@ -61,6 +61,7 @@ $   sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/inst
 - [Raycast](https://www.raycast.com/)
 - Trello
 - [Fig.io](https://fig.io)
+- [Coffee](https://trycoffee.co/)
 
 Extensiones para VSCode
 
