@@ -15,10 +15,10 @@ xcode-select --install
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-Configure GIT
+### Configure GIT
 - [Snippet]https://gist.github.com/efrencodes/5197171d9da8a9dcbe00293854157a1a
 - [Configure SSH to Github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=mac)
-Examples
+### Examples
 - [Git aliases cheatsheet](https://www.hansschnedlitz.com/git-aliases/)
 - [.gitconfig](https://github.com/durdn/cfg/blob/master/.gitconfig)
 
