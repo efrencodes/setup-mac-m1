@@ -6,40 +6,21 @@
 ### Instalar xcode
 
 ```bash
-$   xcode-select install
+xcode-select --install
 ```
 
 ### Instalar brew
 
 ```bash
-$   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-### Instalar iTerm
-
-```bash
-$   brew install --cask iterm2
-```
-
-### Instalar Yarn
-
-```bash
-$   brew install yarn
-```
-
-### Instalar git
-
-```bash
-$   brew install git
-```
-
-Configurar git
-
-```bash
-$   git config --global user.name <name> &&
-    git config --global user.email <email> &&
-    git config --global --list
-```
+Configure GIT
+- [Snippet]https://gist.github.com/efrencodes/5197171d9da8a9dcbe00293854157a1a
+- [Configure SSH to Github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=mac)
+Examples
+- [Git aliases cheatsheet](https://www.hansschnedlitz.com/git-aliases/)
+- [.gitconfig](https://github.com/durdn/cfg/blob/master/.gitconfig)
 
 ### Instalar oh-my-zsh
 
@@ -53,24 +34,21 @@ $   sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/inst
 
 - [Bitwarden](https://bitwarden.com/download/)
 - [Code Visual Studio](https://code.visualstudio.com/Download#)
+- [Run code in terminal](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line)
 - [Notion](https://www.notion.so/desktop)
 - [Firefox](https://www.mozilla.org/es-MX/firefox/new/)
-- Google Chrome
-- Figma
+- [Google Chrome](https://www.google.com/intl/es-419/chrome/)
 - [Rectangleapp](https://rectangleapp.com/)
 - [Raycast](https://www.raycast.com/)
-- Trello
-- [Fig.io](https://fig.io)
-- [Coffee](https://trycoffee.co/)
+- [Config raycast](https://manual.raycast.com/hotkey)
+- [Warp terminal](https://www.warp.dev)
 
 Extensiones para VSCode
 
-- [Activar los brackets.](https://twitter.com/midudev/status/1433691522914996245)
 - ESLint
 - Prettier
 - Trailing Spaces
 - Indent-rainbow
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 [Gist para Code](https://gist.github.com/efrencodes/b4e6758a34167d3d01a830057c3f8723)
 
@@ -80,3 +58,4 @@ Theme para VSCode
 - [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 - [Panda Theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda)
 - [Halcyon Theme](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
