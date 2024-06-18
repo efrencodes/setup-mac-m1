@@ -1,36 +1,50 @@
-### Instalar Fuente Fire Code
+### Fonts
 
 - [Fira Code](https://github.com/tonsky/FiraCode)
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
-### Instalar xcode
+### Install xcode
 
 ```bash
 xcode-select --install
 ```
 
-### Instalar brew
+### Install brew
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 ### Configure GIT
-- [Snippet]https://gist.github.com/efrencodes/5197171d9da8a9dcbe00293854157a1a
+- [Snippet](https://gist.github.com/efrencodes/5197171d9da8a9dcbe00293854157a1a)
 - [Configure SSH to Github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=mac)
 ### Examples
 - [Git aliases cheatsheet](https://www.hansschnedlitz.com/git-aliases/)
 - [.gitconfig](https://github.com/durdn/cfg/blob/master/.gitconfig)
 
-### Instalar oh-my-zsh
+### Install oh-my-zsh
 
 ```bash
-$   sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
 [Gist de oh-my-zsh](https://gist.github.com/efrencodes/1b16e86304a618e8169973c43544b7e9)
+[Install spaceship](https://github.com/spaceship-prompt/spaceship-prompt)
+[Config spaceship](https://spaceship-prompt.sh/config/intro/#Changing-the-config-location)
 
-### Aplicaciones
+### Install NVM
+
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+```
+
+[NVM](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating)
+
+### Install Flutter
+
+[Install Flutter](https://docs.flutter.dev/get-started/install/macos/mobile-ios?tab=download)
+
+### Apps
 
 - [Bitwarden](https://bitwarden.com/download/)
 - [Code Visual Studio](https://code.visualstudio.com/Download#)
@@ -43,7 +57,7 @@ $   sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/inst
 - [Config raycast](https://manual.raycast.com/hotkey)
 - [Warp terminal](https://www.warp.dev)
 
-Extensiones para VSCode
+Extensiones for VSCode
 
 - ESLint
 - Prettier
@@ -52,7 +66,7 @@ Extensiones para VSCode
 
 [Gist para Code](https://gist.github.com/efrencodes/b4e6758a34167d3d01a830057c3f8723)
 
-Theme para VSCode
+Themes for VSCode
 
 - [Aura Theme](https://github.com/daltonmenezes/aura-theme/)
 - [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
