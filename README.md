@@ -56,6 +56,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 - [Raycast](https://www.raycast.com/)
 - [Config raycast](https://manual.raycast.com/hotkey)
 - [Warp terminal](https://www.warp.dev)
+- [Run JS]()
 
 Extensiones for VSCode
 
