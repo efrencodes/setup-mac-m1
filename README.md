@@ -16,9 +16,12 @@ xcode-select --install
 ```
 
 ### Configure GIT
+
 - [Snippet](https://gist.github.com/efrencodes/5197171d9da8a9dcbe00293854157a1a)
 - [Configure SSH to Github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=mac)
+
 ### Examples
+
 - [Git aliases cheatsheet](https://www.hansschnedlitz.com/git-aliases/)
 - [.gitconfig](https://github.com/durdn/cfg/blob/master/.gitconfig)
 
@@ -56,7 +59,8 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 - [Raycast](https://www.raycast.com/)
 - [Config raycast](https://manual.raycast.com/hotkey)
 - [Warp terminal](https://www.warp.dev)
-- [Run JS]()
+- [Run JS](https://runjs.app/)
+- [Obsidian](https://obsidian.md/)
 
 Extensiones for VSCode
 
@@ -74,3 +78,4 @@ Themes for VSCode
 - [Panda Theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda)
 - [Halcyon Theme](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [Dracula Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
