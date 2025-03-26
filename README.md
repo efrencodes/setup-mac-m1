@@ -68,6 +68,7 @@ Extensiones for VSCode
 - Prettier
 - Trailing Spaces
 - Indent-rainbow
+- Tailwind CSS IntelliSense
 
 [Gist para Code](https://gist.github.com/efrencodes/b4e6758a34167d3d01a830057c3f8723)
 
